@@ -1,0 +1,5 @@
+"TestScenario,Input,ExpectedOutput"
+"ValidLoginWithEmail,testuser@example.com,Login Successful"
+"InvalidLoginWithEmail,invaliduser@example.com,Invalid Email or Password"
+"ValidLoginWithPhone,1234567890,Login Successful"
+"InvalidLoginWithPhone,0987654321,Invalid Phone Number or OTP"
